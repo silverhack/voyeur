@@ -21,7 +21,7 @@ VOYEUR can be used in two ways scenarios:
 
 == Screenshots ==
 
-![voyeur](https://cloud.githubusercontent.com/assets/5271640/17643817/19b20958-6143-11e6-8e3a-41a4bec132df.png|border|1024px)
+![voyeur](https://cloud.githubusercontent.com/assets/5271640/17643817/19b20958-6143-11e6-8e3a-41a4bec132df.png)
 
 == Reporting ==
 
@@ -29,13 +29,13 @@ Support for exporting data driven to several formats like CSV, XML or JSON (Expe
 
 The following screenshot shows an example report in JSON format
 
-![voyeur_jsonreport](https://cloud.githubusercontent.com/assets/5271640/17643845/d5a545da-6143-11e6-8769-32008d19f638.PNG|border|1024px)
+![voyeur_jsonreport](https://cloud.githubusercontent.com/assets/5271640/17643845/d5a545da-6143-11e6-8769-32008d19f638.PNG)
 
 == Office Support ==
 
 Support for exporting data driven to EXCEL format. The tool also support table style modification, chart creation, company logo or independent language support. At the moment only Office Excel 2010 and Office Excel 2013 are supported by the tool.
 
-![voyeurexcelreport](https://cloud.githubusercontent.com/assets/5271640/17643864/55bfa3dc-6144-11e6-8266-29487b4f167f.PNG|border|1024px)
+![voyeurexcelreport](https://cloud.githubusercontent.com/assets/5271640/17643864/55bfa3dc-6144-11e6-8266-29487b4f167f.PNG)
 
 == Sample reports ==
 
@@ -61,9 +61,9 @@ PSRemotingProtocolVersion      2.1
 
 == Installation ==
 
-You can download the latest zip by clicking [https://git.pentest.ngs/juan.garrido/voyeur/repository/archive.zip here].
+You can download the latest zip by clicking [https://github.com/silverhack/voyeur/archive/master.zip here].
 
-Preferably, you can download voyeur by cloning the [https://git.pentest.ngs/juan.garrido/voyeur Git] repository:
+Preferably, you can download voyeur by cloning the [https://github.com/silverhack/voyeur] repository:
 
 <pre>
 git clone git clone https://github.com/silverhack/voyeur
