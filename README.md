@@ -66,7 +66,7 @@ You can download the latest zip by clicking [https://github.com/silverhack/voyeu
 Preferably, you can download voyeur by cloning the [https://github.com/silverhack/voyeur] repository:
 
 <pre>
-git clone git clone https://github.com/silverhack/voyeur
+git clone https://github.com/silverhack/voyeur
 </pre>
 
 <h1>Usage</h1>
